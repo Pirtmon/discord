@@ -1,3 +1,10 @@
+/*
+ *   
+ *   Prueba GitHub
+ *   by Pirtmon
+ *   
+ */
+
 import java.util.Scanner;
 
 public class discord {
